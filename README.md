@@ -3,4 +3,4 @@ Exercicio de aula curso "Desenvolvimento Front-End do Zero ao Pro" escola EBAC -
 
 Utilizei tabelas em html e imagens estáticas, para desenvolver esse Emailmarketing.
 
-Link:
+Link: https://valtersystem.github.io/Emailmarketing/
